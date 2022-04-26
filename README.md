@@ -10,4 +10,3 @@ Eu me chamo Francielle e sou formada em engenharia civil. Atualmente estou cursa
 <a href="https://www.instagram.com/franciellee.sales/" target-"_blank"><img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
-a href="mailto:someone@microsoft.com?subject=Hello%20again"

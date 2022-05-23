@@ -1,7 +1,6 @@
 ### Olá!
 
-Eu me chamo Francielle e sou formada em engenharia civil. Atualmente estou cursando engenharia de software e participando de um treinamento intensivo de php. Em meu tempo livre, estou estudando Java e Python.
-
+Eu me chamo Francielle e sou formada em engenharia civil. Atualmente estou cursando engenharia de software e estudando HTML, CSS, Javascript e Java.
 ##
 
 <div>

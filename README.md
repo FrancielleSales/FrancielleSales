@@ -1,6 +1,7 @@
 ### Olá!
 
-Eu me chamo Francielle e sou formada em engenharia civil. Atualmente estou cursando engenharia de software e estudando HTML, CSS, Javascript e Java.
+Eu sou a Francielle, formada em engenharia civil e aluna do curso de engenharia de software. Estudo HTML, CSS, Javascript, Angular, Typescript, Spring boot e Java.
+
 ##
 
 <div>

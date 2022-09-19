@@ -34,6 +34,10 @@ Eu me chamo Francielle, e sou graduada em engenharia civil. Durante a pandemia c
 
 ***
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciellesales&theme=graywhite&show_icons=true,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+
+***
+
 **Contatos**
 
 <p align="justify">

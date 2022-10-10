@@ -83,4 +83,5 @@ Caso queira entrar em contato comigo para tirar dúvidas, dar sugestões ou fala
 <a href="https://www.linkedin.com/in/francielleelietesales" target-"_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:franciellesales0@gmail.com" target-"_blank"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://wa.me/5548991199533" target-"_blank"><img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white></a>
+<a href="https://engsoft.tech.blog/" target-"_blank"><img src=https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white></a>
 </div>

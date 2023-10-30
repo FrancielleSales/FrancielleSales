@@ -3,7 +3,7 @@
 </p>
 
 <p align="justify">
-Eu me chamo Francielle, e sou graduada em engenharia civil. Durante a pandemia comecei a me interessar por programação e apesar do receio de mudar de área, decidi tentar. Atualmente estou no sexto semestre de engenharia de software, e buscando aprender cada vez mais. Abaixo mostro um pouco mais meus interesses e tecnologias com as quais tive mais contato.
+Eu me chamo Francielle e sou graduada em engenharia civil. Durante a pandemia comecei a me interessar por programação e apesar do receio de mudar de área, decidi tentar. Atualmente estou no sexto semestre de engenharia de software, e buscando aprender cada vez mais. Abaixo mostro um pouco mais meus interesses e tecnologias com as quais tive mais contato.
 </p>
 
 ***

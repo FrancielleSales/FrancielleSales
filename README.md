@@ -3,7 +3,19 @@
 </p>
 
 <p align="justify">
-Eu me chamo Francielle e sou graduada em engenharia civil. Durante a pandemia comecei a me interessar por programação e apesar do receio de mudar de área, decidi tentar. Atualmente estou no sexto semestre de engenharia de software, e buscando aprender cada vez mais. Abaixo mostro um pouco mais meus interesses e tecnologias com as quais tive mais contato.
+
+<br>
+
+Me chamo Francielle e sou graduada em Engenharia Civil pela UFSC. Durante a graduação tive algumas disciplinas que envolviam programação, e acabei me interessando bastante. 
+
+No início da pandemia fiz alguns cursos gratuitos que encontrei de C e python, e desde então sigo estudando.
+
+Atualmente estou no sétimo semestre do curso de Engenharia de Software, neste ano início meu mestrado na área de transportes, no qual pretendo unir meus conhecimentos de engenharia e programação.
+
+Estou trabalhando como programadora e no meu cotidiano venho mexendo principalmente com Vue.js, CSS, Bootstrap, Postgresql, Tornado Web Server, peewee e Python.
+
+Abaixo mostro um pouco mais meus interesses e tecnologias com as quais tive mais contato.
+
 </p>
 
 ***
